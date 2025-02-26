@@ -1,6 +1,6 @@
 <footer class="bg-dark text-white fixed-bottom">
     <div class="container text-center">
-      <p>&copy; {{ date('Y') }} | Edulab. All Rights Reserved.</p>
+      <p>&copy; {{ date('Y') }} | Agung Soetedjo, S.Kom. | Backend Developer. All Rights Reserved.</p>
     </div>
 </footer>
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
