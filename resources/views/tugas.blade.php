@@ -7,7 +7,7 @@
             <h2 class="text-center">Data Tugas</h2>
             <button class="btn btn-success my-2" onclick="showForm()">Tambah Data</button>
             {{-- <table id="tugasTable" class="table table-bordered"> --}}
-            <br>Keterangan Status : <input type=checkbox checked disabled> Selesai, <input type=checkbox disabled> = Belum Selesai <br>
+            <br>Keterangan Status : <input type=checkbox checked disabled> = Selesai, <input type=checkbox disabled> = Belum Selesai <br>
             <table id="example" class="table table-bordered table-striped">
                 <thead>
                     <tr>
